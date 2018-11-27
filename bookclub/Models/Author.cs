@@ -10,5 +10,7 @@ namespace bookclub.Models
         public int id { get; set; }
         public int phone { get; set; }
         public string name { get; set; }
+
+        // Hello Comment
     }
 }
