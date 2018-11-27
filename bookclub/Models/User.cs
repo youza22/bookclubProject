@@ -11,5 +11,6 @@ namespace bookclub.Models
         public string email { get; set; }
             public string password { get; set; }
             public int phonenumber{ get; set; }
+
     }
 }
